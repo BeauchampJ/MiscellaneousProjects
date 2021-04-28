@@ -9,7 +9,7 @@ Playing Rock Paper scissors with computer
 - To use this program you run it and then select either rock, paper or scissors. Then the computer randomly picks one to play and then it keeps track of wins and losses.
 ---
 
-##TODO
+## TODO
 - [x] Make it actually run (kept crashing from memory overflow)
 - [ ] Adjust menu configurations
 - [ ] Make it more obvious when you win or loose instead of displaying it in command window
